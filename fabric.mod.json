@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "minecraft-nostalgic-edition",
+  "version": "1.0.0",
+  "name": "Minecraft Nostalgic Edition",
+  "description": "A Minecraft Mod that makes minecraft have that more nostalgic and sandbox feel of an indie game back in beta versions of the game, but with still some modern influence",
+  "license": "CC-BY-4.0",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.16.3",
+    "minecraft": "~26.1"
+  },
+  "authors": [
+    "Krontixz"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/project/minecraft-nostalgic-edition/",
+    "sources": "github.com/Krontixz/Minecraft-Nostalgic-Edition/",
+    "issues": "github.com/Krontixz/Minecraft-Nostalgic-Edition//issues"
+  }
+}
